@@ -1,2 +1,2 @@
 # Kaggle-sentiment-analysis-
-This jupyter notebook integrates 7 algorithms to create an ensemble approach combining two strategies: stacking and boosting.
+This jupyter laptop integrates 7 algorithms to create a joint approach that combines two strategies: stacking and boosting.
